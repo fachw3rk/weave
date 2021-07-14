@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "@weave-js/utils": "^0.9.0-beta.2",
-    "nats": "^1.4.12"
+    "nats": "^2.1.0"
   },
   "devDependencies": {
     "@weave-js/core": "^0.9.0-beta.12",
